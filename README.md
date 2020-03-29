@@ -1,2 +1,0 @@
-# php
-despliegue continuo php
