@@ -46,7 +46,7 @@ else
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
       
-      <h2>AWS SDK for PHP</h2>
+      <h2>AWS SDK for PHP 2</h2>
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
