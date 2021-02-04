@@ -10,7 +10,7 @@ else
 ?>
 <!doctype html>
 <html lang="en">
-<head>  
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>PHP Application - AWS Elastic Beanstalk</title>
@@ -45,8 +45,6 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
-      
-      <h2>AWS SDK for PHP 2</h2>
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
