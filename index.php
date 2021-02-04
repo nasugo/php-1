@@ -10,7 +10,7 @@ else
 ?>
 <!doctype html>
 <html lang="en">
-<head>
+<head>  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>PHP Application - AWS Elastic Beanstalk</title>
@@ -23,10 +23,10 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations - DESPLIEGE EN CODEPIPELINE AWS !</h1>
+        <h1>Congratulations!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-        <p>Desplegado por Monica></p>
+        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
     <section class="instructions">
@@ -34,7 +34,7 @@ else
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Using Amazon RDS with PHP !!! TUTORIAL</a>
+            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Using Amazon RDS with PHP</a>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html">Customizing the Software on EC2 Instances</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
@@ -45,6 +45,8 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
+      
+      <h2>AWS SDK for PHP</h2>
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
